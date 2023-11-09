@@ -1,0 +1,94 @@
+body {
+    font-family: Playfair Display;
+    color: #7D7D7D;
+}
+
+.container {
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.text {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.text:hover {
+    color: #03A9F4;
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+    width: 555px;
+    justify-content: space-around;
+    margin: 0 auto;
+    margin-top: 71px;
+    margin-bottom: 92px;
+}
+
+.card {
+    width: 420px;
+
+}
+
+img {
+    width: 420px;
+    height: 280px;
+}
+
+.category {
+    font-family: Ubuntu;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.title {
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+
+.blocktext {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.blocks {
+    display: flex;
+    justify-content: space-between;
+    width: 906px;
+    margin: 0 auto;
+}
+
+.btn_layer {
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+}
+
+.btn {
+    width: 165px;
+    height: 60px;
+    font-family: Playfair Display;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+    background-color: white;
+    border: 1px solid #626262;
+
+}
